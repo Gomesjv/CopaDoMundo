@@ -1,0 +1,10 @@
+img{
+    height: 120px;
+}
+body{
+    background-color: rgb(78,1 ,25 );
+}
+table, th, tr, td{
+    border-color: aliceblue;
+    color: white;
+}
